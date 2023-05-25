@@ -13,11 +13,11 @@ Warnung! Es handelt sich um einen Ransomware-Virus zum Testen von Antiviren-Soft
 
 警告です！ アンチウイルスソフトのテスト用のランサムウェアウイルスです、自己責任でライブマシン上で実行しないでください！ ZIPの中にウイルスサンプルと解読機があります、ZIPのパスワード： infected
 
-Varning! Det är ett ransomware-virus för testning av antivirusprogram, kör det inte på en live-maskin på egen risk! Det finns ett virusprov och dekrypterare i zip-filen, zip-lösenord: infekterad
+Varning! Det är ett ransomware-virus för testning av antivirusprogram, kör det inte på en live-maskin på egen risk! Det finns ett virusprov och dekrypterare i zip-filen, zip-lösenord: infected
 
-Peringatan! Ini adalah virus ransomware untuk pengujian perangkat lunak anti-virus, mohon jangan jalankan di mesin hidup dengan risiko Anda sendiri! Ada sampel virus dan dekripsi di dalam zip, kata sandi zip: terinfeksi
+Peringatan! Ini adalah virus ransomware untuk pengujian perangkat lunak anti-virus, mohon jangan jalankan di mesin hidup dengan risiko Anda sendiri! Ada sampel virus dan dekripsi di dalam zip, kata sandi zip: infected
 
-Attenzione! Si tratta di un virus ransomware per il test del software antivirus, non eseguirlo su una macchina reale a proprio rischio e pericolo! C'è un campione del virus e un decriptatore all'interno dello zip, password dello zip: infetto
+Attenzione! Si tratta di un virus ransomware per il test del software antivirus, non eseguirlo su una macchina reale a proprio rischio e pericolo! C'è un campione del virus e un decriptatore all'interno dello zip, password dello zip: infected
 
 
 
